@@ -1,0 +1,6 @@
+{
+  "name": "Store Manager Simulator",
+  "description": "Interactive, realistic retail store simulator built with React, Motion and Tailwind CSS. Manage inventory, set pricing, hire staff, handle real-time customer flow, run marketing campaigns, and expand your retail empire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
